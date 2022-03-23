@@ -1,2 +1,2 @@
-# Layoutes-responsivos-mobile
+# Layouts-responsivos-mobile
 Curso de Layouts Responsivos por Matheus Alberto da @alura
